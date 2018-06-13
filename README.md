@@ -1,4 +1,6 @@
 # postman-runtime
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpriyalviroja%2Fpostman-runtime.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpriyalviroja%2Fpostman-runtime?ref=badge_shield)
+
 
 > This is a low-level library used as the backbone for all Collection running & Request sending functionality, in
 > the Postman App, and allied systems ([Postman Monitoring](https://www.getpostman.com/docs/schedule_cloud_runs),
@@ -325,3 +327,7 @@ runner.run(collection, { /* options */ }, function(err, run) {
     });
 });
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpriyalviroja%2Fpostman-runtime.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpriyalviroja%2Fpostman-runtime?ref=badge_large)
